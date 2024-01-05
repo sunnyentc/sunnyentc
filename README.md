@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sunny
-- 👀 I’m interested in Data Mining
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 📫 reach me at sunnyentcpushpam@gmail.com
 
